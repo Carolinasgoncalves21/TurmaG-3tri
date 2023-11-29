@@ -62,3 +62,8 @@ header {
 .lista2 {
     list-style: none;
 }
+
+.itens-lista {
+    display: inline-block;
+    padding: 50px;
+}
