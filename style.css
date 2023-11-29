@@ -11,6 +11,11 @@ header {
     color: #30348C;
 }
 
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+}
+
 #titulo {
     font-size: 50px;
     text-align: center;
